@@ -1,1 +1,5 @@
 .idea
+**/wandb
+**/lightning_logs
+**/dataset
+**/saves
